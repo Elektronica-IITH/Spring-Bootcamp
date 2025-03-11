@@ -4,7 +4,7 @@
 Welcome to Elektronica, the premier Electronics and Signal Processing Club at IIT Hyderabad! This README provides details about our Bootcamp '25, how to participate, and what you can gain by joining us.
 
 ## About Elektronica
-Elektronica is a vibrant community where technology enthusiasts collaborate on innovative projects, explore emerging tech trends, and engage in hands-on learning. From embedded systems and signal processing to robotics and wireless communication, we cover a broad spectrum of exciting domains.
+Elektronica is a vibrant community where technology enthusiasts collaborate on innovative projects, explore emerging tech trends, and engage in hands-on learning. From embedded systems and signal processing to wireless communication, we cover a broad spectrum of exciting domains.
 
 ## Why Join the Elektronica Bootcamp?
 By participating in the Elektronica Bootcamp, you get access to:
@@ -27,9 +27,7 @@ By participating in the Elektronica Bootcamp, you get access to:
 
 ## Contact Us
 For queries or more information, feel free to reach out:
-- **Email:** elektronica@iith.ac.in
-- **Instagram:** [@elektronica_iith](#)
-- **Website:** [Elektronica Club](#)
+- **Email:** elektronica@gymkhana.iith.ac.in
 
 Don't miss this chance to upskill and innovate with Elektronica!
 
